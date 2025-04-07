@@ -1,5 +1,6 @@
 void main() {
 
+/*
   String email = "user@gmail.com";
   String password = "123456";
   String mobile = "0772354619";
@@ -16,4 +17,16 @@ void main() {
   else {
     print("Account created successfully.");
   }
+  */
+
+  int a = 100;
+  int b = 50;
+
+  if(a>50){
+    if(b<70){
+      print("OK");
+
+    }
+  }
+
 }
